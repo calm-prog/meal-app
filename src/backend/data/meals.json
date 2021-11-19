@@ -1,0 +1,45 @@
+[{
+        "id": 1,
+        "title": "Indian food in the summer",
+        "maxNumberOfGuests": 5,
+        "description": "A nice night out eating delicious indian food",
+        "createdAt": "2019/12/7 14:34",
+        "price": 67
+    },
+
+    {
+        "id": 2,
+        "title": "Vegan Indian meal",
+        "maxNumberOfGuests": 4,
+        "description": "Organic vegeterian meal",
+        "createdAt": "2019/12/8 10:34",
+        "price": 150
+    },
+
+    {
+        "id": 3,
+        "title": "South Indian Non-veg meal",
+        "maxNumberOfGuests": 10,
+        "description": "Non vegeterian food with your choice of meat",
+        "createdAt": "2019/10/8 10:34",
+        "price": 200
+    },
+
+    {
+        "id": 4,
+        "title": "Indian breakfast",
+        "maxNumberOfGuests": 4,
+        "description": "Popular Indian breakfast like Idly, Dosa, Upma",
+        "createdAt": "2018/12/8 10:34",
+        "price": 80
+    },
+
+    {
+        "id": 5,
+        "title": "North Indian Tali",
+        "maxNumberOfGuests": 6,
+        "description": "North Indian meals(veg)",
+        "createdAt": "2019/12/6 10:34",
+        "price": 110
+    }
+]

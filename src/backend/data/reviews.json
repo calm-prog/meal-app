@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "numberOfStars": 5,
+        "content": "Best meal ever",
+        "mealId": 1,
+        "createdAt": 12345
+    },
+    {
+        "id": 2,
+        "numberOfStars": 2,
+        "content": "Not a good meal",
+        "mealId": 2,
+        "createdAt": 6789
+    },
+    {
+        "id": 3,
+        "numberOfStars": 4,
+        "content": "A good meal",
+        "mealId": 3,
+        "createdAt": 6789
+    },
+    {
+        "id": 4,
+        "numberOfStars": 4,
+        "content": "Good one",
+        "mealId": 5,
+        "createdAt": 6789
+    },
+    {
+        "id": 5,
+        "numberOfStars": 3,
+        "content": "Could be better!",
+        "mealId": 4,
+        "createdAt": 6789
+    },
+    {
+        "id": 6,
+        "numberOfStars": 5,
+        "content": "Best meal ever",
+        "mealId": 2,
+        "createdAt": 6789
+    }
+]

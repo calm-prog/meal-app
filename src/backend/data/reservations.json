@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "name": "Benjamin Hughes",
+        "email": "benjamin@hughes.dk",
+        "mealId": 1
+    },
+    {
+        "id": 2,
+        "name": "Shaun Murphy",
+        "email": "shaun@murphy.dk",
+        "mealId": 2
+    },
+    {
+        "id": 3,
+        "name": "Donald Duck",
+        "email": "donald@duck.dk",
+        "mealId": 3
+    },
+    {
+        "id": 4,
+        "name": "Niel Melendez",
+        "email": "melendez@niel.dk",
+        "mealId": 4
+    },
+    {
+        "id": 5,
+        "name": "Morgon Reznik",
+        "email": "morgon@reznik.dk",
+        "mealId": 3
+    },
+    {
+        "id": 6,
+        "name": "Claire Brown",
+        "email": "claire@brown.dk",
+        "mealId": 5
+    }
+]
